@@ -23,7 +23,7 @@ email: nicogonik@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   👋 Hi! I'm a freelance analytics consultant and Data Engineer :)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nicogonik.now.sh" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ngonik
 github_username:  ngonik
 linkedin_username: nicolasgonik
